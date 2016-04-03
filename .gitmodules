@@ -1,0 +1,9 @@
+[submodule "src/iOS/Swift/Typhoon-Swift-Example"]
+	path = src/iOS/Swift/Typhoon-Swift-Example
+	url = git@github.com:appsquickly/Typhoon-Swift-Example.git
+[submodule "src/iOS/Objective-C/Typhoon-example"]
+	path = src/iOS/Objective-C/Typhoon-example
+	url = git@github.com:appsquickly/Typhoon-example.git
+[submodule "src/Android/Java/dagger"]
+	path = src/Android/Java/dagger
+	url = git@github.com:google/dagger.git
